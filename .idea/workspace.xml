@@ -23,28 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_exceptions.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_exceptions.rb">
+      <file leaf-file-name="about_blocks.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_blocks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="50" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_triangle_project_2.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_triangle_project_2.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="64" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_iteration.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_iteration.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="19" selection-start="2055" selection-end="2055" vertical-scroll-proportion="0.6126761">
+            <state line="92" column="19" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.7887324">
               <folding />
             </state>
           </provider>
@@ -60,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/about_nil.rb" />
         <option value="$PROJECT_DIR$/about_objects.rb" />
         <option value="$PROJECT_DIR$/about_array_assignment.rb" />
         <option value="$PROJECT_DIR$/about_hashes.rb" />
@@ -76,6 +57,7 @@
         <option value="$PROJECT_DIR$/triangle.rb" />
         <option value="$PROJECT_DIR$/about_triangle_project_2.rb" />
         <option value="$PROJECT_DIR$/about_iteration.rb" />
+        <option value="$PROJECT_DIR$/about_blocks.rb" />
       </list>
     </option>
   </component>
@@ -237,16 +219,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about_symbols.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="23" selection-start="2578" selection-end="2578" vertical-scroll-proportion="0.7253521" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_regular_expressions.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="58" selection-start="3772" selection-end="3772" vertical-scroll-proportion="-5.88" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_arrays.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="52" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0" />
@@ -307,13 +279,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_exceptions.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="50" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/triangle.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="39" selection-start="736" selection-end="736" vertical-scroll-proportion="0.52816904">
@@ -321,16 +286,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/example_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_exceptions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="50" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.38732395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about_triangle_project_2.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="64" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0">
+        <state line="8" column="64" selection-start="360" selection-end="360" vertical-scroll-proportion="0.16901408">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_iteration.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="19" selection-start="2055" selection-end="2055" vertical-scroll-proportion="0.6126761">
+        <state line="83" column="44" selection-start="2349" selection-end="2349" vertical-scroll-proportion="1.7535211">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="19" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.7887324">
           <folding />
         </state>
       </provider>
