@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_blocks.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_blocks.rb">
+      <file leaf-file-name="about_scoring_project.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="19" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.7887324">
+            <state line="18" column="119" selection-start="617" selection-end="617" vertical-scroll-proportion="-6.2">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_classes.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_classes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="22" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.6760563">
               <folding />
             </state>
           </provider>
@@ -42,9 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/about_objects.rb" />
-        <option value="$PROJECT_DIR$/about_array_assignment.rb" />
-        <option value="$PROJECT_DIR$/about_hashes.rb" />
         <option value="$PROJECT_DIR$/about_symbols.rb" />
         <option value="$PROJECT_DIR$/about_regular_expressions.rb" />
         <option value="$PROJECT_DIR$/about_arrays.rb" />
@@ -58,6 +64,9 @@
         <option value="$PROJECT_DIR$/about_triangle_project_2.rb" />
         <option value="$PROJECT_DIR$/about_iteration.rb" />
         <option value="$PROJECT_DIR$/about_blocks.rb" />
+        <option value="$PROJECT_DIR$/about_sandwich_code.rb" />
+        <option value="$PROJECT_DIR$/about_scoring_project.rb" />
+        <option value="$PROJECT_DIR$/about_classes.rb" />
       </list>
     </option>
   </component>
@@ -161,6 +170,7 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24944812" sideWeight="0.6707317" order="0" side_tool="false" content_ui="tabs" />
@@ -170,7 +180,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -219,38 +228,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about_arrays.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="52" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_true_and_false.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="13" selection-start="861" selection-end="861" vertical-scroll-proportion="0.6971831" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_triangle_project.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="17" selection-start="432" selection-end="442" vertical-scroll-proportion="0.2535211" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_control_statements.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="35" selection-start="2086" selection-end="2086" vertical-scroll-proportion="1.7535211" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_extra_credit.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs19/exception.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="27" selection-start="3443" selection-end="3443" vertical-scroll-proportion="0.8605634">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/rubystubs19/standarderror.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="24" selection-start="711" selection-end="711" vertical-scroll-proportion="0.31690142">
@@ -316,7 +293,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_blocks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="19" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.7887324">
+        <state line="94" column="30" selection-start="2431" selection-end="2431" vertical-scroll-proportion="0.85211265">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_arrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_sandwich_code.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="51" selection-start="2141" selection-end="2141" vertical-scroll-proportion="0.3028169">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="22" selection-start="5180" selection-end="5180" vertical-scroll-proportion="0.6365639">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_control_statements.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="43" selection-start="507" selection-end="507" vertical-scroll-proportion="-13.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="119" selection-start="617" selection-end="617" vertical-scroll-proportion="-6.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_classes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="22" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.6760563">
           <folding />
         </state>
       </provider>
