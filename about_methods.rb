@@ -119,7 +119,7 @@ class AboutMethods < EdgeCase::Koan
     exception = assert_raise(NoMethodError) do
       self.my_private_method
     end
-    assert_match /my_private_method/, exception.message            #TODO Not clear
+    assert_match /my_private_method/, exception.message            #PTR
   end
 
   # ------------------------------------------------------------------
