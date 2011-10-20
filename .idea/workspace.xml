@@ -35,7 +35,7 @@
       <file leaf-file-name="about_dice_project.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="32" selection-start="261" selection-end="261" vertical-scroll-proportion="0.2535211">
+            <state line="12" column="12" selection-start="216" selection-end="216" vertical-scroll-proportion="0.2535211">
               <folding />
             </state>
           </provider>
@@ -51,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/about_regular_expressions.rb" />
         <option value="$PROJECT_DIR$/about_arrays.rb" />
         <option value="$PROJECT_DIR$/about_strings.rb" />
         <option value="$PROJECT_DIR$/about_control_statements.rb" />
@@ -67,6 +66,7 @@
         <option value="$PROJECT_DIR$/about_triangle_project_2.rb" />
         <option value="$PROJECT_DIR$/about_classes.rb" />
         <option value="$PROJECT_DIR$/about_open_classes.rb" />
+        <option value="$PROJECT_DIR$/about_dice_project.rb" />
       </list>
     </option>
   </component>
@@ -123,9 +123,9 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
@@ -270,9 +270,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_methods.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="59" selection-start="3164" selection-end="3164" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="119" column="59" selection-start="3164" selection-end="3164" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_strings.rb">
@@ -282,42 +280,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_triangle_project_2.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="35" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="35" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_constants.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="38" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="25" column="38" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="5" selection-start="3332" selection-end="3332" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="155" column="5" selection-start="3332" selection-end="3332" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_open_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="40" selection-start="849" selection-end="849" vertical-scroll-proportion="0.76760566">
-          <folding />
-        </state>
+        <state line="40" column="40" selection-start="849" selection-end="849" vertical-scroll-proportion="0.76760566" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="37" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="28" column="37" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="32" selection-start="261" selection-end="261" vertical-scroll-proportion="0.2535211">
+        <state line="12" column="12" selection-start="216" selection-end="216" vertical-scroll-proportion="0.2535211">
           <folding />
         </state>
       </provider>
