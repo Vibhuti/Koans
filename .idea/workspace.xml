@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_class_methods.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_class_methods.rb">
+      <file leaf-file-name="about_message_passing.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_message_passing.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="36" selection-start="1445" selection-end="1445" vertical-scroll-proportion="0.5510204">
+            <state line="27" column="38" selection-start="628" selection-end="628" vertical-scroll-proportion="0.36734694">
               <folding />
             </state>
           </provider>
@@ -42,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/about_exceptions.rb" />
         <option value="$PROJECT_DIR$/about_iteration.rb" />
         <option value="$PROJECT_DIR$/about_blocks.rb" />
         <option value="$PROJECT_DIR$/about_sandwich_code.rb" />
@@ -58,6 +57,7 @@
         <option value="$PROJECT_DIR$/about_modules.rb" />
         <option value="$PROJECT_DIR$/about_scope.rb" />
         <option value="$PROJECT_DIR$/about_class_methods.rb" />
+        <option value="$PROJECT_DIR$/about_message_passing.rb" />
       </list>
     </option>
   </component>
@@ -219,11 +219,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about_sandwich_code.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="51" selection-start="2141" selection-end="2141" vertical-scroll-proportion="0.3028169" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.rdoc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="131" column="22" selection-start="5180" selection-end="5180" vertical-scroll-proportion="0.6365639" />
@@ -304,7 +299,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_class_methods.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="36" selection-start="1445" selection-end="1445" vertical-scroll-proportion="0.5510204">
+        <state line="155" column="54" selection-start="3577" selection-end="3577" vertical-scroll-proportion="0.5714286">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_message_passing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="38" selection-start="628" selection-end="628" vertical-scroll-proportion="0.36734694">
           <folding />
         </state>
       </provider>
