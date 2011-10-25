@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_scoring_project.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
+      <file leaf-file-name="about_modules.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_modules.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="1" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
+            <state line="33" column="47" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_modules.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_modules.rb">
+      <file leaf-file-name="about_scope.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_scope.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="72" selection-start="757" selection-end="757" vertical-scroll-proportion="0.75510204">
+            <state line="75" column="19" selection-start="1880" selection-end="1880" vertical-scroll-proportion="0.81632656">
               <folding />
             </state>
           </provider>
@@ -51,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/about_control_statements.rb" />
         <option value="$PROJECT_DIR$/about_true_and_false.rb" />
         <option value="$PROJECT_DIR$/about_exceptions.rb" />
         <option value="$PROJECT_DIR$/about_iteration.rb" />
@@ -67,6 +66,7 @@
         <option value="$PROJECT_DIR$/about_inheritance.rb" />
         <option value="$PROJECT_DIR$/about_scoring_project.rb" />
         <option value="$PROJECT_DIR$/about_modules.rb" />
+        <option value="$PROJECT_DIR$/about_scope.rb" />
       </list>
     </option>
   </component>
@@ -228,11 +228,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about_blocks.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="30" selection-start="2431" selection-end="2431" vertical-scroll-proportion="0.85211265" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_arrays.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -309,7 +304,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_modules.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="72" selection-start="757" selection-end="757" vertical-scroll-proportion="0.75510204">
+        <state line="33" column="47" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_scope.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="19" selection-start="1880" selection-end="1880" vertical-scroll-proportion="0.81632656">
           <folding />
         </state>
       </provider>
