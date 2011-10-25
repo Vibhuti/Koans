@@ -23,10 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_message_passing.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_message_passing.rb">
+      <file leaf-file-name="about_proxy_object_project.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_proxy_object_project.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="174" column="22" selection-start="4723" selection-end="4723" vertical-scroll-proportion="0.79591835">
+            <state line="22" column="65" selection-start="907" selection-end="907" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_to_str.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_to_str.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="23" selection-start="1371" selection-end="1371" vertical-scroll-proportion="0.877551">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_scoring_project.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="101" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -42,8 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/about_iteration.rb" />
-        <option value="$PROJECT_DIR$/about_blocks.rb" />
         <option value="$PROJECT_DIR$/about_sandwich_code.rb" />
         <option value="$PROJECT_DIR$/triangle.rb" />
         <option value="$PROJECT_DIR$/about_constants.rb" />
@@ -53,11 +69,13 @@
         <option value="$PROJECT_DIR$/about_open_classes.rb" />
         <option value="$PROJECT_DIR$/about_dice_project.rb" />
         <option value="$PROJECT_DIR$/about_inheritance.rb" />
-        <option value="$PROJECT_DIR$/about_scoring_project.rb" />
         <option value="$PROJECT_DIR$/about_modules.rb" />
         <option value="$PROJECT_DIR$/about_scope.rb" />
         <option value="$PROJECT_DIR$/about_class_methods.rb" />
         <option value="$PROJECT_DIR$/about_message_passing.rb" />
+        <option value="$PROJECT_DIR$/about_proxy_object_project.rb" />
+        <option value="$PROJECT_DIR$/about_scoring_project.rb" />
+        <option value="$PROJECT_DIR$/about_to_str.rb" />
       </list>
     </option>
   </component>
@@ -160,7 +178,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896462" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -219,16 +237,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/triangle.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="90" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="59" selection-start="3164" selection-end="3164" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_strings.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="160" column="40" selection-start="4407" selection-end="4407" vertical-scroll-proportion="0.0" />
@@ -262,13 +270,6 @@
     <entry file="file://$PROJECT_DIR$/about_inheritance.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="71" column="36" selection-start="1481" selection-end="1481" vertical-scroll-proportion="1.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="1" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -310,7 +311,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about_message_passing.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="174" column="22" selection-start="4723" selection-end="4723" vertical-scroll-proportion="0.79591835">
+        <state line="176" column="27" selection-start="4768" selection-end="4768" vertical-scroll-proportion="0.8367347">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="101" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_proxy_object_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="65" selection-start="907" selection-end="907" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_to_str.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="23" selection-start="1371" selection-end="1371" vertical-scroll-proportion="0.877551">
           <folding />
         </state>
       </provider>
