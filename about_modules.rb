@@ -12,7 +12,7 @@ class AboutModules < EdgeCase::Koan
   end
 
   def test_cant_instantiate_modules
-    assert_raise(___) do
+    assert_raise(NoMethodError) do
       Nameable.new
     end
   end
@@ -39,7 +39,7 @@ class AboutModules < EdgeCase::Koan
 
   def test_normal_methods_are_available_in_the_object
     fido = Dog.new
-    assert_equal __, fido.bark
+    assert_equal "WOOF", fido.bark
   end
 
   def test_module_methods_are_also_availble_in_the_object

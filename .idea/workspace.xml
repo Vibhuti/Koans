@@ -26,16 +26,16 @@
       <file leaf-file-name="about_scoring_project.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="37" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
+            <state line="28" column="1" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_dice_project.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
+      <file leaf-file-name="about_modules.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_modules.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="12" selection-start="216" selection-end="216" vertical-scroll-proportion="0.2535211">
+            <state line="44" column="72" selection-start="757" selection-end="757" vertical-scroll-proportion="0.75510204">
               <folding />
             </state>
           </provider>
@@ -51,8 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/about_arrays.rb" />
-        <option value="$PROJECT_DIR$/about_strings.rb" />
         <option value="$PROJECT_DIR$/about_control_statements.rb" />
         <option value="$PROJECT_DIR$/about_true_and_false.rb" />
         <option value="$PROJECT_DIR$/about_exceptions.rb" />
@@ -62,11 +60,13 @@
         <option value="$PROJECT_DIR$/triangle.rb" />
         <option value="$PROJECT_DIR$/about_constants.rb" />
         <option value="$PROJECT_DIR$/about_methods.rb" />
-        <option value="$PROJECT_DIR$/about_scoring_project.rb" />
         <option value="$PROJECT_DIR$/about_triangle_project_2.rb" />
         <option value="$PROJECT_DIR$/about_classes.rb" />
         <option value="$PROJECT_DIR$/about_open_classes.rb" />
         <option value="$PROJECT_DIR$/about_dice_project.rb" />
+        <option value="$PROJECT_DIR$/about_inheritance.rb" />
+        <option value="$PROJECT_DIR$/about_scoring_project.rb" />
+        <option value="$PROJECT_DIR$/about_modules.rb" />
       </list>
     </option>
   </component>
@@ -96,6 +96,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -117,7 +118,6 @@
         </subPane>
       </pane>
       <pane id="Favorites" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,7 +165,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1383" height="878" extended-state="6" />
+    <frame x="0" y="22" width="1383" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -228,16 +228,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about_exceptions.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="50" selection-start="1240" selection-end="1240" vertical-scroll-proportion="0.38732395" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_iteration.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="44" selection-start="2349" selection-end="2349" vertical-scroll-proportion="1.7535211" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_blocks.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="94" column="30" selection-start="2431" selection-end="2431" vertical-scroll-proportion="0.85211265" />
@@ -298,14 +288,28 @@
         <state line="40" column="40" selection-start="849" selection-end="849" vertical-scroll-proportion="0.76760566" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="37" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_dice_project.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="12" selection-start="216" selection-end="216" vertical-scroll-proportion="0.2535211">
+        <state line="7" column="65" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_inheritance.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="36" selection-start="1481" selection-end="1481" vertical-scroll-proportion="1.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_scoring_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="1" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_modules.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="72" selection-start="757" selection-end="757" vertical-scroll-proportion="0.75510204">
           <folding />
         </state>
       </provider>

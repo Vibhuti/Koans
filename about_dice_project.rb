@@ -5,7 +5,7 @@ require File.expand_path(File.dirname(__FILE__) + '/edgecase')
 class DiceSet
 def roll(n)
   @numbers = []
-  n.times do
+  n.times do                                              #PTR
     @numbers << rand(5)+1
   end
 end
